@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm saipratama</h1>
+<h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">I'm student from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saipratama&label=Profile%20views&color=0e75b6&style=flat" alt="saipratama" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [on update](on update)
 
-- 💬 Ask me about **Windows, PHP, WEB, LINUX**
+- 💬 Ask me about **LINUX, PROGRAMMING, DATABASE, OR WEB SECURITY**
 
 - ⚡ Fun fact **Still learning, Must working, Keep growing, and Always praying**
 
